@@ -1,4 +1,4 @@
-### Olá ! Me chamo Fabrício Preisler
+### Olá ! Me chamo Fabrício Preisler, sou Desenvolvedor Front-end e Design UI | UX
 
 
 <div style="display: inline_block"><br>
@@ -25,9 +25,9 @@
 <br>
 <div>
   
-### 🚀 Desenvolvedor Front-end e Designer apaixonado por criar experiências digitais excepcionais.
+### 🚀 Sou apaixonado por criar experiências digitais excepcionais.
 
-## 💡 Especializado em Design UI | UX (User Interface and User Experience), também possuo habilidades sólidas em:
+## 💡 Além de ser especializado em Design UI | UX (User Interface and User Experience), também possuo habilidades sólidas em:
 
 - HTML5 e CSS3
 - Angular
@@ -42,11 +42,11 @@
 - Javascript e JQuery
 - C#
 
-#### 🛠️ Constantemente aprimorando minhas habilidades e explorando novas tecnologias para oferecer soluções inovadoras. Com uma abordagem centrada no usuário, meu objetivo é transformar ideias em interfaces intuitivas e funcionais.
+#### 🛠️ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologias para oferecer soluções inovadoras. Com uma abordagem centrada no usuário, meu objetivo é transformar ideias em interfaces intuitivas e funcionais.
 
 #### 💻 Além disso, sou um entusiasta do código limpo e da colaboração eficiente, utilizando o GitHub como meu playground para projetos interessantes.
 
-<h4> 📚 Desenvolvedor Front-end | Design UI | Design UX | Web Designer </h4>
+<h4> 📚 Formado em Análise e desenvolvimento de sistemas </h4>
 </div>
 <br>
 <p><b>🌐 Me siga para explorarmos oportunidades de colaboração e compartilhar conhecimentos.</b></p>
